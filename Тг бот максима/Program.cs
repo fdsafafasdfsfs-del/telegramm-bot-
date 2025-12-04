@@ -19,7 +19,7 @@ namespace Тг_бот_максима
 
         static async Task Main()
         {
-            string botToken = "8203191544:AAGt7dxjEgT35kQ1YC4KyHRZH23NtApnzrE";
+            string botToken = "токен бота";
             var bot = new TelegramBotClient(botToken);
 
             using var cts = new CancellationTokenSource();
