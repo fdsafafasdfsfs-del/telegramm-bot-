@@ -1,0 +1,23 @@
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Тг бот максима.exe
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Тг бот максима.deps.json
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Тг бот максима.runtimeconfig.json
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Тг бот максима.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Тг бот максима.pdb
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\bin\Debug\net8.0\Telegram.Bot.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.csproj.AssemblyReference.cache
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.AssemblyInfoInputs.cache
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.AssemblyInfo.cs
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.csproj.CoreCompileInputs.cache
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\__ ___ _.8262AD44.Up2Date
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\refint\Тг бот максима.dll
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.pdb
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\Тг бот максима.genruntimeconfig.cache
+C:\Users\Максым\Desktop\мой любимый тг бот\Тг бот максима\Тг бот максима\obj\Debug\net8.0\ref\Тг бот максима.dll
